@@ -1,0 +1,9 @@
+.header{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+    font-size: 25px;
+    font-display: red;
+    border: 2px green solid;
+    padding: 5px;
+}
